@@ -1,3 +1,5 @@
+I think the main issue for this project will be actually finding the data necessary to render the views
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
